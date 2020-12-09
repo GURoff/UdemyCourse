@@ -2,10 +2,10 @@
 "use strict";
 
 //---Функция в общем виде ---
-// function showFirstMessage() { //функция. В круглых скобках - аргументы функции
-//     console.log("Hello");
-// }
-// showFirstMessage(); //вызов функции
+ function showFirstMessage() { //функция. В круглых скобках - аргументы функции
+     console.log("Hello");
+ }
+ showFirstMessage(); //вызов функции
 
 //--- Введение аргументов в функцию --- Рест Оператор
 // function showFirstMessage(text) { 
@@ -66,3 +66,4 @@
 //     console.log('1');
 //     return a + b;
 // };
+
