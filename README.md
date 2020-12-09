@@ -1,1 +1,1 @@
-# Course
+# Course of JS - Udemy
