@@ -66,5 +66,3 @@
 //     console.log('1');
 //     return a + b;
 // };
-//fgdfghdfgdf
-//fbdfbfbfd
