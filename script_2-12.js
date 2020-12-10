@@ -1,6 +1,5 @@
 'use strict';
 /* Задание на урок:
-
 1) Создать переменную numberOfFilms и в неё поместить ответ от пользователя на вопрос:
 'Сколько фильмов вы уже посмотрели?'*/
 const numberOfFilms = +prompt('Сколько фильмов Вы уже посмотрели?','');
@@ -18,10 +17,6 @@ const personaMovieDB = {
     actors: {},
     genres: [],
     privat: false,
-    movies1: {},
-    actors2: {},
-    genres3: [],
-    privat4: false,
 };
 
 /*3) Задайте пользователю по два раза вопросы:
