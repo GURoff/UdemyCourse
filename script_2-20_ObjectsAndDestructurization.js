@@ -14,6 +14,17 @@ const options = {
         bg: 'red'
     }
 };
+
+const options1 = {
+    name: 'test',
+    width: 1024,
+    height: 1024,
+    colors: { //объект в объекте
+        border: 'black',
+        bg: 'red'
+    }
+};
+
 //console.log(options.name);
 //console.log(options["colors"]["border"]);
 
