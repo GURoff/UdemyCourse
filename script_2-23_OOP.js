@@ -33,5 +33,3 @@ const John = Object.create(soldier); //Мы создаем новый объек
 
 // //console.log(John.armor);
 John.sayHello();
-
-
